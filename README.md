@@ -9,6 +9,6 @@
 
 <div>
   
- <a href = "mailto:paulodutra247@gmail.com"><img src="[https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white](https://icons8.com.br/icon/br7VK5sjdFtf/email)" target="blank" width="100"></a>
+ <a href = "mailto:paulodutra247@gmail.com"><img src="https://img.icons8.com/?size=100&id=35084&format=png&color=000000" target="blank" width="100"></a>
  
 </div>
