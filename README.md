@@ -36,6 +36,6 @@
 ## Contato
 
 <p align="left">
-  <a href="mailto:paulodutra247@gmail.com" style="text-decoration:none;"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45"/></a>
-  <a href="https://www.linkedin.com/in/paulo-henrique-dutra-dos-santos-tavares-604117207" style="text-decoration:none;"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="45"/></a>
+  <a href="mailto:paulodutra247@gmail.com" style="text-decoration:none;"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="60"/></a>
+  <a href="https://www.linkedin.com/in/paulo-henrique-dutra-dos-santos-tavares-604117207" style="text-decoration:none;"><img src="https://img.icons8.com/fluency/48/linkedin.png" width="60"/></a>
 </p>
