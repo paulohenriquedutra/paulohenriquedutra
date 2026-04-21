@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Paulo Henrique
 
-- Desenvolvedor de software  
-- FullStack 
+- Desenvolvedor de software 
+- Aplicações Web 
 - São Paulo - Brasil  
 
 ---
@@ -20,7 +20,16 @@
 
 ## Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquedutra&layout=compact&theme=tokyonight)
+<table align="center",table width=100%>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=paulohenriquedutra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="170" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulohenriquedutra&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
